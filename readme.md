@@ -19,4 +19,4 @@
 
 ## Как открыть/запустить
 
-Доступно [по ссылке](https://github.com/valeriotto/tast6.10 "Перейти") 
+Доступно [по ссылке](https://valeriotto.github.io/tast6.10/ "Перейти") 
